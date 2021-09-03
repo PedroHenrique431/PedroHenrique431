@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, bem-vindo! 👋
 
 <div>
   <a href="https://github.com/PedroHenrique431">
